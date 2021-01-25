@@ -1,2 +1,2 @@
-web: python proxy.py
+web: python main.py
 
