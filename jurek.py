@@ -33,4 +33,4 @@ class Jurek(threading.Thread):
 
 
 if __name__ == '__main__':
-    Jurek("localhost", 42069).run()
+    Jurek("zyrafal-proxy.herokuapp.com", 25565).run()
